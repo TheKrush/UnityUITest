@@ -1,0 +1,3 @@
+[submodule "Assets/TSTableView"]
+	path = Assets/TSTableView
+	url = https://github.com/TheKrush/TSTableView.git
